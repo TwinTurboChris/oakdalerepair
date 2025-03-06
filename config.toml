@@ -1,4 +1,4 @@
-baseURL = 'https://oakdaleautorepair.com/'
+baseURL = 'oakdalerepair.pages.dev'
 languageCode = 'en-us'
 title = 'Oakdale Auto Repair 318-9352'
 theme = 'ananke'
