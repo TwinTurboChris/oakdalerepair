@@ -1,0 +1,5 @@
+name = "oakdalerepair"
+main = "src/worker.js"
+compatibility_date = "2025-03-06"
+workers_dev = true
+preview_urls = true

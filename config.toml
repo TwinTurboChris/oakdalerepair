@@ -1,0 +1,54 @@
+baseURL = 'https://oakdaleautorepair.com/'
+languageCode = 'en-us'
+title = 'Oakdale Auto Repair 318-9352'
+theme = 'ananke'
+resourceDir = 'resources'
+
+DefaultContentLanguage = 'en'
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 10
+[[menu.main]]
+  name = 'Automotive Repair'
+  url = '/AutoRepair'
+  weight = 20
+[[menu.main]]
+  name = 'Oil Change & Maintenance'
+  url = '/OilChanges'
+  weight = 20
+[[menu.main]]
+  name = 'Paint & Autobody'
+  url = '/AutoBody'
+  weight = 20
+googleAnalytics = ''
+enableRobotsTXT = true
+
+[languages]
+[languages.en]
+title = 'Oakdale Auto Repair (209) 318-9352'
+weight = 1
+contentDir = 'content'
+# languageDirection = 'rtl' for Right-To-Left languages
+
+[sitemap]
+changefreq = 'monthly'
+priority = 0.5
+filename = 'sitemap.xml'
+
+[params]
+  favicon = ''
+  description = 'Oakdale Auto Repair 318-9352'
+  facebook = ''
+  twitter = ''
+  instagram = ''
+  youtube = ''
+  github = ''
+  gitlab = ''
+  linkedin = ''
+  mastodon = ''
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with 'bg-'
+  background_color_class = 'bg-black'
+  featured_image = '/images/mainbanner.jpg'
+  recent_posts_number = 3
