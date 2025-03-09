@@ -24,7 +24,7 @@ DefaultContentLanguage = 'en'
   weight = 40
 [[menu.main]]
   name = 'Location'
-  url = '/Location'
+  url = '/OurLocation'
   weight = 50
 googleAnalytics = ''
 enableRobotsTXT = true
