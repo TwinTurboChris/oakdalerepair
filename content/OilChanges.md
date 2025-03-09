@@ -2,10 +2,8 @@
 date = '2025-03-03T14:27:11-08:00'
 title = 'Oil Change & Vehicle Maintenance'
 featured_image = '/images/OilChange.jpg'
+omit_header_text = 'true'
 +++
-**Oil Change & Vehicle Maintenance**
-------------------------------------
-
 Keeping up with **regular maintenance** is the best way to ensure your vehicle stays reliable, efficient, and safe on the road. At **Oakdale Auto Repair**, we provide high-quality **oil changes and factory-recommended maintenance services** to help extend the life of your vehicle and prevent costly repairs down the line.
 
 ### **Oil Change Services**

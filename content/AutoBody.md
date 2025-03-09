@@ -2,10 +2,8 @@
 date = '2025-03-03T14:27:11-08:00'
 title = 'Paint & Autobody'
 featured_image = '/images/collision.jpg'
+omit_header_text = 'true'
 +++
-**Autobody & Paint Services**
------------------------------
-
 At **Oakdale Auto Repair & Paint**, we specialize in high-quality **collision repair, dent removal, and custom paintwork** to restore your vehicle's appearance. Whether you've been in an accident or want to refresh your car's look, our **I-CAR Certified autobody specialists** provide expert craftsmanship and attention to detail.
 
 ### **Collision Repair**

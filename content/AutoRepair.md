@@ -2,10 +2,8 @@
 date = '2025-03-03T14:27:11-08:00'
 title = 'Automotive Repair'
 featured_image = '/images/bannerB.jpg'
+omit_header_text = 'true'
 +++
-**Expert Automotive Repair Services**
--------------------------------------
-
 At **Oakdale Auto Repair**, we specialize in diagnosing and repairing **all makes and models** to keep your vehicle running at its best. Whether you're experiencing performance issues, unusual noises, or warning lights on your dashboard, our **ASE-certified technicians** have the expertise and state-of-the-art equipment to get you back on the road safely.
 
 ### **Engine Diagnostics & Repair**
