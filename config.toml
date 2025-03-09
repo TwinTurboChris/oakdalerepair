@@ -17,15 +17,15 @@ DefaultContentLanguage = 'en'
 [[menu.main]]
   name = 'Oil Change & Maintenance'
   url = '/OilChanges'
-  weight = 20
+  weight = 30
 [[menu.main]]
   name = 'Paint & Autobody'
   url = '/AutoBody'
-  weight = 20
+  weight = 40
 [[menu.main]]
   name = 'Location'
   url = '/Location'
-  weight = 20
+  weight = 50
 googleAnalytics = ''
 enableRobotsTXT = true
 
