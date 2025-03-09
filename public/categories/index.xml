@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Oakdale Auto Repair (209) 318-9352</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://oakdaleautorepair.com/categories/</link>
     <description>Recent content in Categories on Oakdale Auto Repair (209) 318-9352</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://oakdaleautorepair.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
