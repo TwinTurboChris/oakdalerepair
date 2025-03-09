@@ -1,6 +1,5 @@
 +++
 date = '2025-03-09T16:00:49-07:00'
-draft = true
 title = 'Location'
 +++
 **Find Us at Oakdale Auto Repair & Paint**
