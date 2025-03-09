@@ -11,7 +11,7 @@ DefaultContentLanguage = 'en'
   url = '/'
   weight = 10
 [[menu.main]]
-  name = 'Automotive Repair'
+  name = 'Auto Repair'
   url = '/AutoRepair'
   weight = 20
 [[menu.main]]
@@ -21,6 +21,10 @@ DefaultContentLanguage = 'en'
 [[menu.main]]
   name = 'Paint & Autobody'
   url = '/AutoBody'
+  weight = 20
+[[menu.main]]
+  name = 'Location'
+  url = '/Location'
   weight = 20
 googleAnalytics = ''
 enableRobotsTXT = true
