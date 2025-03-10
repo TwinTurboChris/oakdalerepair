@@ -3,6 +3,8 @@ date = '2025-03-09T16:00:49-07:00'
 title = 'Location'
 +++
 ![location](/images/map.png)
+
+
 1011 C Post Road
 
 **Find Us at Oakdale Auto Repair & Paint**
