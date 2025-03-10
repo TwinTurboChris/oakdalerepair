@@ -18,3 +18,5 @@ We started **Oakdale Auto Repair & Paint** because we wanted to bring **honest r
 From **engine repairs and transmission services** to **brakes, suspension, and custom autobody work**, we are your **one-stop shop** for all things automotive. Whether you need routine maintenance, major repairs, or collision restoration, our team is here to deliver the highest level of service.
 
 At **Oakdale Auto Repair & Paint**, we don't just fix cars---we take care of people. **Call or visit us today and experience the difference of honest, expert automotive service.**
+
+![We Employ ASE Trained Technicians](/images/ICAR-ASE.png)
