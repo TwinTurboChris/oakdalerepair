@@ -2,6 +2,8 @@
 date = '2025-03-09T15:39:03-07:00'
 title = ''
 +++
+![Restored GMC C10](/images/FullResto.jpg)
+
 **Welcome to Oakdale Auto Repair & Paint**
 ------------------------------------------
 
