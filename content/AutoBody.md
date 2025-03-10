@@ -33,3 +33,5 @@ Looking to restore a **classic car or a well-loved vehicle**? We specialize in f
 -   **Customer Satisfaction Guarantee** -- We stand behind our work with a commitment to excellence.
 
 At **Oakdale Auto Repair & Paint**, we bring your vehicle back to life with expert autobody and paint services. **Contact us today for an estimate!**
+
+![We Employ ASE Trained Technicians](/images/ICAR-ASE.png)

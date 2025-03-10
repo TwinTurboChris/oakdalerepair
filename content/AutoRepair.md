@@ -54,3 +54,5 @@ Overheating can lead to major engine damage. We help keep your vehicle cool with
 -   **Honest & Transparent Service** -- Providing clear explanations and fair pricing.
 
 At **Oakdale Auto Repair**, we're committed to providing expert repairs with quality and integrity. **Contact us today to schedule an appointment and get your vehicle back on the road!**
+
+![We Employ ASE Trained Technicians](/images/ICAR-ASE.png)
