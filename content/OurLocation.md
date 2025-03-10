@@ -2,7 +2,7 @@
 date = '2025-03-09T16:00:49-07:00'
 title = 'Location'
 +++
-!map
+![location](/images/map.png)
 
 **Find Us at Oakdale Auto Repair & Paint**
 ==========================================
