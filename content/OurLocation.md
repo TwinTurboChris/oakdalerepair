@@ -13,10 +13,9 @@ Getting to **Oakdale Auto Repair & Paint** is simple! Follow these easy directio
 
 1.  Start by heading **southeast on S Yosemite Ave**.
 2.  Turn **left onto E J St** and continue for a short distance.
-3.  Take a **right onto S 5th Ave**.
-4.  Stay to the **left as the road becomes Sierra Rd**.
-5.  Turn **right onto Pedersen Rd**, then immediately **left onto Knox Rd**.
-6.  Take a **right onto Post Rd**---our shop will be **on the left**.
+3.  Take a **right onto S 5th Ave** (changes names to Sierra Rd).
+4.  Turn **right onto Pedersen Rd**, then immediately **left onto Knox Rd**.
+5.  Take a **right onto Post Rd**---our shop will be **on the left**.
 
 ### **Landmarks to Watch For:**
 
