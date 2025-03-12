@@ -3,8 +3,10 @@
     <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white-90 dib">
       {{ with .Site.Params.site_logo }}
         <img src="{{ relURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
+        <br>
       {{ else }}
         {{ .Site.Title }}
+        <br>
       {{ end }}
     </a>
     <div class="flex-l justify-around">
