@@ -6,7 +6,7 @@ homepage = "https://github.com/theNewDynamic/gohugo-theme-ananke"
 demosite = "https://ananke-theme.netlify.app/"
 tags = ["website", "starter", "responsive", "Disqus", "blog", "Tachyons", "Multilingual", "Stackbit"]
 features = ["posts", "shortcodes", "related content", "comments"]
-min_version = "0.118.2"
+min_version = "0.128.0"
 
 authors = [
   {name = "Patrick Kollitsch", homepage = "https://github.com/davidsneighbour"},
