@@ -2,7 +2,8 @@
 date = '2025-03-09T15:39:03-07:00'
 title = ''
 +++
-1011 Post Road, Oakdale, California
+
+<center>1011 Post Road, Oakdale, California</center>
 
 ![Restored GMC C10](/images/FullResto.jpg)
 
