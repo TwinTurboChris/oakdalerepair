@@ -44,8 +44,8 @@ priority = 0.5
 filename = 'sitemap.xml'
 
 [params]
-  favicon = ''
-  description = 'Oakdale Auto Repair 318-9352'
+  favicon = 'false'
+  description = 'Oakdale Auto Repair 318-9352 '
   facebook = ''
   twitter = ''
   instagram = ''

@@ -5,7 +5,7 @@ title = 'Location'
 ![location](/images/map.png)
 
 
-1011 C Post Road
+1011 C Post Road, Oakdale, CA
 
 **Find Us at Oakdale Auto Repair & Paint**
 ==========================================
