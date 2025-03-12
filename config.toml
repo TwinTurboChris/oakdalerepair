@@ -33,7 +33,7 @@ enableRobotsTXT = true
 
 [languages]
 [languages.en]
-title = 'Oakdale Auto Repair - 1011 C Post Road'
+title = 'Oakdale Auto Repair - 1011 C Post Rd'
 weight = 1
 contentDir = 'content'
 # languageDirection = 'rtl' for Right-To-Left languages
