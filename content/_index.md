@@ -3,8 +3,6 @@ date = '2025-03-09T15:39:03-07:00'
 title = ''
 +++
 
-<center>1011 Post Road, Oakdale, California</center>
-
 ![Restored GMC C10](/images/FullResto.jpg)
 
 **Welcome to Oakdale Auto Repair & Paint**
