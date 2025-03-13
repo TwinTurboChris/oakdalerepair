@@ -7,15 +7,15 @@
       {{ else }}
         {{ .Site.Title }}
         </P>
-        <P align="center">1011 Post Road Unit C</P>
       {{ end }}
     </a>
+    <P align="center" class="f4 center">1011 Post Road Unit C</P>
     <br>
-    <div class="flex-l items-center">
+    <div class="flex items-center">
       <br>
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
-        <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+        <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}" center>
           {{ range .Site.Menus.main }}
           <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
             <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
