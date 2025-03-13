@@ -3,11 +3,11 @@
     <a href="{{ .Site.Home.RelPermalink }}" class="center f3 fw2 hover-white no-underline white-90">
       {{ with .Site.Params.site_logo }}
         <img src="{{ relURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
-        <p align="center">
+        <p class="center">
       {{ else }}
         {{ .Site.Title }}
         </P>
-        <P class="center f4">1011 Post Road Unit C</P>
+        <P class="center f2">1011 Post Road Unit C</P>
       {{ end }}
     </a>
     <br>
@@ -17,7 +17,7 @@
       {{ if .Site.Menus.main }}
         <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}" center>
           {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+          <li class="list center f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
             <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
               {{ .Name }}
             </a><br>
