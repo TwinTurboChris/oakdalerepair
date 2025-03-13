@@ -1,14 +1,13 @@
 <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex justify-between items-center center">
-    <a href="{{ .Site.Home.RelPermalink }}" class="center f3 fw2 hover-white no-underline white-90">
+    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white-90 dib">
       {{ with .Site.Params.site_logo }}
         <img src="{{ relURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
         <p class="center">
       {{ else }}
         {{ .Site.Title }}
         </p>
-        <p class="center f4">1011 Post Road Unit C
-          <br> Oakdale, CA 95361
+        <p class="center f4">1011 Post Road Unit C. Oakdale, CA 95361
         </p>
       {{ end }}
     </a>
@@ -18,7 +17,7 @@
         <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
           {{ range .Site.Menus.main }}
           <li class="list f5 f4-ns fw4 {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-            <a class="hover-white no-underline white-90 center" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+            <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
               {{ .Name }}
             </a>
           </li>
