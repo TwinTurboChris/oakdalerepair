@@ -1,5 +1,5 @@
 <nav class="pv3 ph3 ph4-ns" role="navigation">
-  <div class="flex-l flex-column items-center center">
+  <div class="flex-l flex-center items-center center">
     <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white-90 dib">
       {{ with .Site.Params.site_logo }}
         <img src="{{ relURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
@@ -7,7 +7,7 @@
       {{ else }}
         {{ .Site.Title }}
         </P>
-        <P>1011 Post Road Unit C</P>
+        <P align="center">1011 Post Road Unit C</P>
       {{ end }}
     </a>
     <br>
