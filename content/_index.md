@@ -20,4 +20,4 @@ From **engine repairs and transmission services** to **brakes, suspension, and c
 
 At **Oakdale Auto Repair & Paint**, we don't just fix cars---we take care of people. **Call or visit us today and experience the difference of honest, expert automotive service.**
 
-![We Employ ASE Trained Technicians](/images/ICAR-ASE.png)
+![We Employ ASE Trained Technicians](/images/ASE-ICAR.png)
