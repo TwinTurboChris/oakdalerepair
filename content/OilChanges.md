@@ -39,4 +39,4 @@ Proper tire and brake maintenance is crucial for your safety. We offer:
 
 At **Oakdale Auto Repair**, we make routine maintenance easy and hassle-free. **Stop by today or schedule your next service appointment!**
 
-![We Employ ASE Trained Technicians](/images/ICAR-ASE.png)
+![We Employ ASE Trained Technicians](/images/ASE-ICAR-2.png)

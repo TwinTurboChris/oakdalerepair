@@ -8,16 +8,16 @@ title = ''
 **Welcome to Oakdale Auto Repair & Paint**
 ------------------------------------------
 
-At **Oakdale Auto Repair & Paint**, we believe that every driver deserves **honest, high-quality automotive care** from technicians they can trust. Founded by **Chris Holmes** and **Aaron Jelsma**, our shop was built on the principles of integrity, expertise, and dedication to our customers.
+At **Oakdale Auto Repair & Paint**, we believe that quality auto repair shouldn't come with an unreasonable price tag. Founders **Chris Holmes** and **Aaron Jelsma** have spent years in the industry and saw firsthand how expensive repairs and maintenance could be. They knew there had to be a better way---so they built a shop where **everyday people could get honest, expert service at a fair price**.
 
-With **over 25 years of experience**, **Chris Holmes** is an **ASE Master Certified Technician**, specializing in **advanced diagnostics, engine repairs, and complex mechanical issues**. His passion for problem-solving has helped countless drivers get their vehicles back on the road when other shops couldn't find the issue.
+With **over 25 years of experience**, **Chris Holmes** is an **ASE Master Certified Technician**, specializing in **advanced diagnostics, engine repairs, and complex mechanical issues**. His ability to pinpoint and fix tough automotive problems helps drivers avoid unnecessary costs and get back on the road quickly.
 
-**Aaron Jelsma** is an **I-CAR Collision Repair Certified Technician**, bringing precision and craftsmanship to **autobody repair and professional paintwork**. Whether it's restoring a vehicle after an accident or giving it a fresh new look, Aaron's expertise ensures every job is completed with care and attention to detail.
+**Aaron Jelsma**, an **I-CAR Collision Repair Certified Technician**, brings top-tier craftsmanship to **autobody repair and professional paintwork**. From accident restoration to custom refinishing, he ensures that every vehicle leaves our shop looking and performing at its best.
 
-We started **Oakdale Auto Repair & Paint** because we wanted to bring **honest repairs and expert diagnostics to everyday drivers**. We know that dealing with car problems can be stressful, and too often, people feel like they're being misled or overcharged. That's why we take the time to explain every repair, provide transparent pricing, and ensure that every customer leaves our shop feeling confident about their vehicle.
+At **Oakdale Auto Repair & Paint**, our mission is simple: **to provide affordable, high-quality repairs without cutting corners**. We know that unexpected car problems can be stressful---and expensive. That's why we focus on **transparent pricing, straightforward advice, and reliable repairs that fit your budget**.
 
-From **engine repairs and transmission services** to **brakes, suspension, and custom autobody work**, we are your **one-stop shop** for all things automotive. Whether you need routine maintenance, major repairs, or collision restoration, our team is here to deliver the highest level of service.
+From **engine and transmission repairs** to **brakes, suspension, and collision work**, we offer the **best value in automotive care** without sacrificing quality. Whether you need a quick fix or a major repair, we're here to help---at a price you can afford.
 
-At **Oakdale Auto Repair & Paint**, we don't just fix cars---we take care of people. **Call or visit us today and experience the difference of honest, expert automotive service.**
+**Honest. Affordable. Expert Service.** That's **Oakdale Auto Repair & Paint**. **Call or visit us today!**
 
 ![We Employ ASE Trained Technicians](/images/ASE-ICAR-2.png)
