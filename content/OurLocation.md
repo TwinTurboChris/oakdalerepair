@@ -2,7 +2,7 @@
 date = '2025-03-09T16:00:49-07:00'
 title = 'Location'
 +++
-![location](/images/map.png)
+![Garage](/images/AutoRepairShop.jpg)
 
 
 1011 C Post Road, Oakdale, CA
@@ -26,3 +26,5 @@ Getting to **Oakdale Auto Repair & Paint** is simple! Follow these easy directio
 -   If you pass **Hedburg Way**, you've gone too far!
 
 We look forward to seeing you at **Oakdale Auto Repair & Paint**. If you need further assistance, don't hesitate to **call us for directions!**
+
+![location](/images/map.png)
