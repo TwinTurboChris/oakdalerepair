@@ -2,6 +2,7 @@
 date = '2025-03-09T16:00:49-07:00'
 title = 'Location'
 omit_header_text = 'true'
+featured_image = '/images/RepairShopFront.jpg'
 +++
 ![location](/images/map.png)
 
