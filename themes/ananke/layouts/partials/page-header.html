@@ -10,8 +10,7 @@
         {{ if not .Params.omit_header_text }}
           <div class="f2 f1-l fw2 white-90 mb0 lh-title">
             <P>{{ .Title | default .Site.Title }}</P>
-            {{ .Site.Params.About | markdownify }}
-            <P>Call [209-318-9352](tel:2093189352)</P>
+            <P>Call (209) 318-9352</P>
           /div>
           {{ with .Params.description  }}
             <div class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
