@@ -2,6 +2,7 @@
 date = '2025-04-12T19:25:52-07:00'
 draft = false
 title = 'Warranty'
+omit_header_text = 'true'
 featured_image = '/images/InsideShop.jpg'
 +++
 **Our Warranty -- Peace of Mind, Guaranteed**
