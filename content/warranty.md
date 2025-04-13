@@ -1,6 +1,6 @@
 +++
 date = '2025-04-12T19:25:52-07:00'
-draft = true
+draft = false
 title = 'Warranty'
 featured_image = '/images/InsideShop.jpg'
 +++
