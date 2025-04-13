@@ -26,6 +26,10 @@ DefaultContentLanguage = 'en'
   name = 'Location'
   url = '/OurLocation'
   weight = 50
+[[menu.main]]
+  name = 'Warranty'
+  url = '/warranty'
+  weight = 60
 [[menus.main.params]]
       class = 'center'
 googleAnalytics = ''
