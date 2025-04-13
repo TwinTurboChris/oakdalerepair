@@ -28,7 +28,7 @@ DefaultContentLanguage = 'en'
   weight = 50
 [[menu.main]]
   name = 'Warranty'
-  url = '/warranty'
+  url = '/Warranty'
   weight = 60
 [[menus.main.params]]
       class = 'center'
